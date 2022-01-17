@@ -11,7 +11,8 @@ A journal.
 .. toctree::
    :maxdepth: 1
    :caption: Contents:
-
+   
+   learning-path
 
 Misc.
 ------
